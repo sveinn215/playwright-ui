@@ -1,0 +1,18 @@
+{
+  "name": "playwright-ui",
+  "version": "1.0.0",
+  "description": "for UI automated test using playwright",
+  "main": "index.js",
+  "scripts": {},
+  "author": "imam isfahani",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.7"
+  },
+  "dependencies": {
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "recaptcha-solver": "^0.3.0"
+  }
+}
